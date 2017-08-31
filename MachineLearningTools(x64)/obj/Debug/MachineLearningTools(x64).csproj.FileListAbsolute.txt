@@ -1,0 +1,9 @@
+C:\Users\kongq\Desktop\Winform_Project\MachineLearningTools\MachineLearningTools(x64)\MachineLearningTools(x64)\bin\Debug\MachineLearningTools(x64).exe.config
+C:\Users\kongq\Desktop\Winform_Project\MachineLearningTools\MachineLearningTools(x64)\MachineLearningTools(x64)\bin\Debug\MachineLearningTools(x64).exe
+C:\Users\kongq\Desktop\Winform_Project\MachineLearningTools\MachineLearningTools(x64)\MachineLearningTools(x64)\bin\Debug\MachineLearningTools(x64).pdb
+C:\Users\kongq\Desktop\Winform_Project\MachineLearningTools\MachineLearningTools(x64)\MachineLearningTools(x64)\obj\Debug\MachineLearningTools(x64).csprojResolveAssemblyReference.cache
+C:\Users\kongq\Desktop\Winform_Project\MachineLearningTools\MachineLearningTools(x64)\MachineLearningTools(x64)\obj\Debug\MachineLearningTools_x64_.Form1.resources
+C:\Users\kongq\Desktop\Winform_Project\MachineLearningTools\MachineLearningTools(x64)\MachineLearningTools(x64)\obj\Debug\MachineLearningTools_x64_.Properties.Resources.resources
+C:\Users\kongq\Desktop\Winform_Project\MachineLearningTools\MachineLearningTools(x64)\MachineLearningTools(x64)\obj\Debug\MachineLearningTools(x64).csproj.GenerateResource.Cache
+C:\Users\kongq\Desktop\Winform_Project\MachineLearningTools\MachineLearningTools(x64)\MachineLearningTools(x64)\obj\Debug\MachineLearningTools(x64).exe
+C:\Users\kongq\Desktop\Winform_Project\MachineLearningTools\MachineLearningTools(x64)\MachineLearningTools(x64)\obj\Debug\MachineLearningTools(x64).pdb
